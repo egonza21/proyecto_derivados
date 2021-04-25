@@ -1,0 +1,155 @@
+"Benchmark Date",Tenor,"Publication Time",USD ICE LIBOR
+"September 1, 2020","Overnight","11:55:05 AM",0.08125
+"September 1, 2020","1 Week","11:55:05 AM",0.10675
+"September 1, 2020","1 Month","11:55:05 AM",0.15563
+"September 1, 2020","2 Month","11:55:05 AM",0.20263
+"September 1, 2020","3 Month","11:55:05 AM",0.25113
+"September 1, 2020","6 Month","11:55:05 AM",0.30325
+"September 1, 2020","1 Year","11:55:05 AM",0.43263
+"September 2, 2020","Overnight","11:55:04 AM",0.08250
+"September 2, 2020","1 Week","11:55:04 AM",0.10313
+"September 2, 2020","1 Month","11:55:04 AM",0.15475
+"September 2, 2020","2 Month","11:55:04 AM",0.19938
+"September 2, 2020","3 Month","11:55:04 AM",0.25125
+"September 2, 2020","6 Month","11:55:04 AM",0.28775
+"September 2, 2020","1 Year","11:55:04 AM",0.42500
+"September 3, 2020","Overnight","11:55:04 AM",0.08238
+"September 3, 2020","1 Week","11:55:04 AM",0.10250
+"September 3, 2020","1 Month","11:55:04 AM",0.15863
+"September 3, 2020","2 Month","11:55:04 AM",0.19563
+"September 3, 2020","3 Month","11:55:04 AM",0.24950
+"September 3, 2020","6 Month","11:55:04 AM",0.28725
+"September 3, 2020","1 Year","11:55:04 AM",0.42625
+"September 4, 2020","Overnight","11:55:04 AM",0.08163
+"September 4, 2020","1 Week","11:55:04 AM",0.10950
+"September 4, 2020","1 Month","11:55:04 AM",0.15425
+"September 4, 2020","2 Month","11:55:04 AM",0.18488
+"September 4, 2020","3 Month","11:55:04 AM",0.24800
+"September 4, 2020","6 Month","11:55:04 AM",0.29213
+"September 4, 2020","1 Year","11:55:04 AM",0.42100
+"September 7, 2020","1 Week","11:55:04 AM",0.10675
+"September 7, 2020","1 Month","11:55:04 AM",0.15563
+"September 7, 2020","2 Month","11:55:04 AM",0.18325
+"September 7, 2020","3 Month","11:55:04 AM",0.24175
+"September 7, 2020","6 Month","11:55:04 AM",0.29325
+"September 7, 2020","1 Year","11:55:04 AM",0.42100
+"September 8, 2020","Overnight","11:55:04 AM",0.07938
+"September 8, 2020","1 Week","11:55:04 AM",0.10875
+"September 8, 2020","1 Month","11:55:04 AM",0.15550
+"September 8, 2020","2 Month","11:55:04 AM",0.20413
+"September 8, 2020","3 Month","11:55:04 AM",0.24950
+"September 8, 2020","6 Month","11:55:04 AM",0.30100
+"September 8, 2020","1 Year","11:55:04 AM",0.42700
+"September 9, 2020","Overnight","11:55:04 AM",0.08213
+"September 9, 2020","1 Week","11:55:04 AM",0.11250
+"September 9, 2020","1 Month","11:55:04 AM",0.15125
+"September 9, 2020","2 Month","11:55:04 AM",0.20450
+"September 9, 2020","3 Month","11:55:04 AM",0.25025
+"September 9, 2020","6 Month","11:55:04 AM",0.28525
+"September 9, 2020","1 Year","11:55:04 AM",0.41475
+"September 10, 2020","Overnight","11:55:04 AM",0.08413
+"September 10, 2020","1 Week","11:55:04 AM",0.10825
+"September 10, 2020","1 Month","11:55:04 AM",0.15113
+"September 10, 2020","2 Month","11:55:04 AM",0.19763
+"September 10, 2020","3 Month","11:55:04 AM",0.24913
+"September 10, 2020","6 Month","11:55:04 AM",0.28488
+"September 10, 2020","1 Year","11:55:04 AM",0.41413
+"September 11, 2020","Overnight","11:55:04 AM",0.08300
+"September 11, 2020","1 Week","11:55:04 AM",0.10325
+"September 11, 2020","1 Month","11:55:04 AM",0.15238
+"September 11, 2020","2 Month","11:55:04 AM",0.19788
+"September 11, 2020","3 Month","11:55:04 AM",0.25038
+"September 11, 2020","6 Month","11:55:04 AM",0.28188
+"September 11, 2020","1 Year","11:55:04 AM",0.41388
+"September 14, 2020","Overnight","11:55:04 AM",0.08388
+"September 14, 2020","1 Week","11:55:04 AM",0.10688
+"September 14, 2020","1 Month","11:55:04 AM",0.15213
+"September 14, 2020","2 Month","11:55:04 AM",0.20025
+"September 14, 2020","3 Month","11:55:04 AM",0.23725
+"September 14, 2020","6 Month","11:55:04 AM",0.27450
+"September 14, 2020","1 Year","11:55:04 AM",0.40263
+"September 15, 2020","Overnight","11:55:04 AM",0.08325
+"September 15, 2020","1 Week","11:55:04 AM",0.10600
+"September 15, 2020","1 Month","11:55:04 AM",0.15050
+"September 15, 2020","2 Month","11:55:04 AM",0.19625
+"September 15, 2020","3 Month","11:55:04 AM",0.24613
+"September 15, 2020","6 Month","11:55:04 AM",0.27325
+"September 15, 2020","1 Year","11:55:04 AM",0.38575
+"September 16, 2020","Overnight","11:55:05 AM",0.08250
+"September 16, 2020","1 Week","11:55:05 AM",0.10263
+"September 16, 2020","1 Month","11:55:05 AM",0.15000
+"September 16, 2020","2 Month","11:55:05 AM",0.19163
+"September 16, 2020","3 Month","11:55:05 AM",0.23325
+"September 16, 2020","6 Month","11:55:05 AM",0.27038
+"September 16, 2020","1 Year","11:55:05 AM",0.37800
+"September 17, 2020","Overnight","11:55:05 AM",0.08225
+"September 17, 2020","1 Week","11:55:05 AM",0.10350
+"September 17, 2020","1 Month","11:55:05 AM",0.15625
+"September 17, 2020","2 Month","11:55:05 AM",0.18913
+"September 17, 2020","3 Month","11:55:05 AM",0.22738
+"September 17, 2020","6 Month","11:55:05 AM",0.27563
+"September 17, 2020","1 Year","11:55:05 AM",0.37625
+"September 18, 2020","Overnight","11:55:04 AM",0.08313
+"September 18, 2020","1 Week","11:55:04 AM",0.10025
+"September 18, 2020","1 Month","11:55:04 AM",0.15575
+"September 18, 2020","2 Month","11:55:04 AM",0.18688
+"September 18, 2020","3 Month","11:55:04 AM",0.22538
+"September 18, 2020","6 Month","11:55:04 AM",0.27525
+"September 18, 2020","1 Year","11:55:04 AM",0.37388
+"September 21, 2020","Overnight","11:55:04 AM",0.08250
+"September 21, 2020","1 Week","11:55:04 AM",0.11088
+"September 21, 2020","1 Month","11:55:04 AM",0.15188
+"September 21, 2020","2 Month","11:55:04 AM",0.17800
+"September 21, 2020","3 Month","11:55:04 AM",0.22325
+"September 21, 2020","6 Month","11:55:04 AM",0.27288
+"September 21, 2020","1 Year","11:55:04 AM",0.37850
+"September 22, 2020","Overnight","11:55:05 AM",0.08263
+"September 22, 2020","1 Week","11:55:05 AM",0.09963
+"September 22, 2020","1 Month","11:55:05 AM",0.15113
+"September 22, 2020","2 Month","11:55:05 AM",0.18613
+"September 22, 2020","3 Month","11:55:05 AM",0.22250
+"September 22, 2020","6 Month","11:55:05 AM",0.27475
+"September 22, 2020","1 Year","11:55:05 AM",0.37650
+"September 23, 2020","Overnight","11:55:04 AM",0.08038
+"September 23, 2020","1 Week","11:55:04 AM",0.10238
+"September 23, 2020","1 Month","11:55:04 AM",0.14813
+"September 23, 2020","2 Month","11:55:04 AM",0.17988
+"September 23, 2020","3 Month","11:55:04 AM",0.22500
+"September 23, 2020","6 Month","11:55:04 AM",0.27163
+"September 23, 2020","1 Year","11:55:04 AM",0.37175
+"September 24, 2020","Overnight","11:55:04 AM",0.08075
+"September 24, 2020","1 Week","11:55:04 AM",0.10563
+"September 24, 2020","1 Month","11:55:04 AM",0.14475
+"September 24, 2020","2 Month","11:55:04 AM",0.18650
+"September 24, 2020","3 Month","11:55:04 AM",0.23325
+"September 24, 2020","6 Month","11:55:04 AM",0.27350
+"September 24, 2020","1 Year","11:55:04 AM",0.37213
+"September 25, 2020","Overnight","11:55:05 AM",0.08013
+"September 25, 2020","1 Week","11:55:05 AM",0.10025
+"September 25, 2020","1 Month","11:55:05 AM",0.14613
+"September 25, 2020","2 Month","11:55:05 AM",0.18438
+"September 25, 2020","3 Month","11:55:05 AM",0.21788
+"September 25, 2020","6 Month","11:55:05 AM",0.27125
+"September 25, 2020","1 Year","11:55:05 AM",0.36925
+"September 28, 2020","Overnight","11:55:05 AM",0.08163
+"September 28, 2020","1 Week","11:55:05 AM",0.10600
+"September 28, 2020","1 Month","11:55:05 AM",0.14663
+"September 28, 2020","2 Month","11:55:05 AM",0.18850
+"September 28, 2020","3 Month","11:55:05 AM",0.22038
+"September 28, 2020","6 Month","11:55:05 AM",0.26925
+"September 28, 2020","1 Year","11:55:05 AM",0.36550
+"September 29, 2020","Overnight","11:55:05 AM",0.08175
+"September 29, 2020","1 Week","11:55:05 AM",0.10388
+"September 29, 2020","1 Month","11:55:05 AM",0.14900
+"September 29, 2020","2 Month","11:55:05 AM",0.19063
+"September 29, 2020","3 Month","11:55:05 AM",0.22513
+"September 29, 2020","6 Month","11:55:05 AM",0.26513
+"September 29, 2020","1 Year","11:55:05 AM",0.35925
+"September 30, 2020","Overnight","11:55:05 AM",0.07800
+"September 30, 2020","1 Week","11:55:05 AM",0.09650
+"September 30, 2020","1 Month","11:55:05 AM",0.14825
+"September 30, 2020","2 Month","11:55:05 AM",0.19388
+"September 30, 2020","3 Month","11:55:05 AM",0.23388
+"September 30, 2020","6 Month","11:55:05 AM",0.25975
+"September 30, 2020","1 Year","11:55:05 AM",0.36013
+

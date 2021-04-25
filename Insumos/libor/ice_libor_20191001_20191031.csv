@@ -1,0 +1,162 @@
+"Benchmark Date",Tenor,"Publication Time",USD ICE LIBOR
+"October 1, 2019","Overnight","11:55:04 AM",1.82613
+"October 1, 2019","1 Week","11:55:04 AM",1.89275
+"October 1, 2019","1 Month","11:55:04 AM",2.01088
+"October 1, 2019","2 Month","11:55:04 AM",2.05963
+"October 1, 2019","3 Month","11:55:04 AM",2.08863
+"October 1, 2019","6 Month","11:55:04 AM",2.05650
+"October 1, 2019","1 Year","11:55:04 AM",2.03550
+"October 2, 2019","Overnight","11:55:04 AM",1.85125
+"October 2, 2019","1 Week","11:55:04 AM",1.89238
+"October 2, 2019","1 Month","11:55:04 AM",1.99725
+"October 2, 2019","2 Month","11:55:04 AM",2.03388
+"October 2, 2019","3 Month","11:55:04 AM",2.05638
+"October 2, 2019","6 Month","11:55:04 AM",2.01700
+"October 2, 2019","1 Year","11:55:04 AM",1.95825
+"October 3, 2019","Overnight","11:55:04 AM",1.82238
+"October 3, 2019","1 Week","11:55:04 AM",1.88113
+"October 3, 2019","1 Month","11:55:04 AM",1.98950
+"October 3, 2019","2 Month","11:55:04 AM",2.02238
+"October 3, 2019","3 Month","11:55:04 AM",2.04313
+"October 3, 2019","6 Month","11:55:04 AM",1.98500
+"October 3, 2019","1 Year","11:55:04 AM",1.91425
+"October 4, 2019","Overnight","11:55:04 AM",1.82075
+"October 4, 2019","1 Week","11:55:04 AM",1.88100
+"October 4, 2019","1 Month","11:55:04 AM",1.97800
+"October 4, 2019","2 Month","11:55:04 AM",2.00438
+"October 4, 2019","3 Month","11:55:04 AM",2.02700
+"October 4, 2019","6 Month","11:55:04 AM",1.95063
+"October 4, 2019","1 Year","11:55:04 AM",1.85313
+"October 7, 2019","Overnight","11:55:04 AM",1.80825
+"October 7, 2019","1 Week","11:55:04 AM",1.88313
+"October 7, 2019","1 Month","11:55:04 AM",1.94025
+"October 7, 2019","2 Month","11:55:04 AM",2.00213
+"October 7, 2019","3 Month","11:55:04 AM",2.01200
+"October 7, 2019","6 Month","11:55:04 AM",1.96038
+"October 7, 2019","1 Year","11:55:04 AM",1.86775
+"October 8, 2019","Overnight","11:55:04 AM",1.80550
+"October 8, 2019","1 Week","11:55:04 AM",1.86650
+"October 8, 2019","1 Month","11:55:04 AM",1.93875
+"October 8, 2019","2 Month","11:55:04 AM",1.99863
+"October 8, 2019","3 Month","11:55:04 AM",2.00950
+"October 8, 2019","6 Month","11:55:04 AM",1.96338
+"October 8, 2019","1 Year","11:55:04 AM",1.88850
+"October 9, 2019","Overnight","11:55:04 AM",1.79000
+"October 9, 2019","1 Week","11:55:04 AM",1.87725
+"October 9, 2019","1 Month","11:55:04 AM",1.92738
+"October 9, 2019","2 Month","11:55:04 AM",1.97850
+"October 9, 2019","3 Month","11:55:04 AM",1.98425
+"October 9, 2019","6 Month","11:55:04 AM",1.94275
+"October 9, 2019","1 Year","11:55:04 AM",1.88188
+"October 10, 2019","Overnight","11:55:04 AM",1.79263
+"October 10, 2019","1 Week","11:55:04 AM",1.86300
+"October 10, 2019","1 Month","11:55:04 AM",1.92125
+"October 10, 2019","2 Month","11:55:04 AM",1.96538
+"October 10, 2019","3 Month","11:55:04 AM",1.98613
+"October 10, 2019","6 Month","11:55:04 AM",1.93550
+"October 10, 2019","1 Year","11:55:04 AM",1.89600
+"October 11, 2019","Overnight","11:55:05 AM",1.79888
+"October 11, 2019","1 Week","11:55:05 AM",1.86575
+"October 11, 2019","1 Month","11:55:05 AM",1.91350
+"October 11, 2019","2 Month","11:55:05 AM",1.97463
+"October 11, 2019","3 Month","11:55:05 AM",2.00088
+"October 11, 2019","6 Month","11:55:05 AM",1.97563
+"October 11, 2019","1 Year","11:55:05 AM",1.95550
+"October 14, 2019","1 Week","11:55:04 AM",1.86600
+"October 14, 2019","1 Month","11:55:04 AM",1.89075
+"October 14, 2019","2 Month","11:55:04 AM",1.96550
+"October 14, 2019","3 Month","11:55:04 AM",2.00088
+"October 14, 2019","6 Month","11:55:04 AM",1.97800
+"October 14, 2019","1 Year","11:55:04 AM",1.97313
+"October 15, 2019","Overnight","11:55:04 AM",1.79513
+"October 15, 2019","1 Week","11:55:04 AM",1.85313
+"October 15, 2019","1 Month","11:55:04 AM",1.88913
+"October 15, 2019","2 Month","11:55:04 AM",1.96738
+"October 15, 2019","3 Month","11:55:04 AM",2.00213
+"October 15, 2019","6 Month","11:55:04 AM",1.97725
+"October 15, 2019","1 Year","11:55:04 AM",1.97413
+"October 16, 2019","Overnight","11:55:05 AM",1.82575
+"October 16, 2019","1 Week","11:55:05 AM",1.85113
+"October 16, 2019","1 Month","11:55:05 AM",1.87750
+"October 16, 2019","2 Month","11:55:05 AM",1.96463
+"October 16, 2019","3 Month","11:55:05 AM",2.00325
+"October 16, 2019","6 Month","11:55:05 AM",1.98588
+"October 16, 2019","1 Year","11:55:05 AM",1.99225
+"October 17, 2019","Overnight","11:55:04 AM",1.83813
+"October 17, 2019","1 Week","11:55:04 AM",1.85263
+"October 17, 2019","1 Month","11:55:04 AM",1.84638
+"October 17, 2019","2 Month","11:55:04 AM",1.93488
+"October 17, 2019","3 Month","11:55:04 AM",1.96588
+"October 17, 2019","6 Month","11:55:04 AM",1.97450
+"October 17, 2019","1 Year","11:55:04 AM",1.99313
+"October 18, 2019","Overnight","11:55:04 AM",1.81513
+"October 18, 2019","1 Week","11:55:04 AM",1.84638
+"October 18, 2019","1 Month","11:55:04 AM",1.85025
+"October 18, 2019","2 Month","11:55:04 AM",1.92750
+"October 18, 2019","3 Month","11:55:04 AM",1.95325
+"October 18, 2019","6 Month","11:55:04 AM",1.95175
+"October 18, 2019","1 Year","11:55:04 AM",1.98725
+"October 21, 2019","Overnight","11:55:04 AM",1.81113
+"October 21, 2019","1 Week","11:55:04 AM",1.84375
+"October 21, 2019","1 Month","11:55:04 AM",1.82300
+"October 21, 2019","2 Month","11:55:04 AM",1.89750
+"October 21, 2019","3 Month","11:55:04 AM",1.93400
+"October 21, 2019","6 Month","11:55:04 AM",1.93425
+"October 21, 2019","1 Year","11:55:04 AM",1.96063
+"October 22, 2019","Overnight","11:55:04 AM",1.81288
+"October 22, 2019","1 Week","11:55:04 AM",1.84513
+"October 22, 2019","1 Month","11:55:04 AM",1.82175
+"October 22, 2019","2 Month","11:55:04 AM",1.88463
+"October 22, 2019","3 Month","11:55:04 AM",1.93600
+"October 22, 2019","6 Month","11:55:04 AM",1.93250
+"October 22, 2019","1 Year","11:55:04 AM",1.96725
+"October 23, 2019","Overnight","11:55:04 AM",1.81400
+"October 23, 2019","1 Week","11:55:04 AM",1.83575
+"October 23, 2019","1 Month","11:55:04 AM",1.82275
+"October 23, 2019","2 Month","11:55:04 AM",1.89763
+"October 23, 2019","3 Month","11:55:04 AM",1.93963
+"October 23, 2019","6 Month","11:55:04 AM",1.91400
+"October 23, 2019","1 Year","11:55:04 AM",1.94275
+"October 24, 2019","Overnight","11:55:04 AM",1.80275
+"October 24, 2019","1 Week","11:55:04 AM",1.81350
+"October 24, 2019","1 Month","11:55:04 AM",1.80425
+"October 24, 2019","2 Month","11:55:04 AM",1.88575
+"October 24, 2019","3 Month","11:55:04 AM",1.93563
+"October 24, 2019","6 Month","11:55:04 AM",1.93200
+"October 24, 2019","1 Year","11:55:04 AM",1.96088
+"October 25, 2019","Overnight","11:55:05 AM",1.80600
+"October 25, 2019","1 Week","11:55:05 AM",1.78625
+"October 25, 2019","1 Month","11:55:05 AM",1.80488
+"October 25, 2019","2 Month","11:55:05 AM",1.88100
+"October 25, 2019","3 Month","11:55:05 AM",1.92813
+"October 25, 2019","6 Month","11:55:05 AM",1.93325
+"October 25, 2019","1 Year","11:55:05 AM",1.95575
+"October 28, 2019","Overnight","11:55:05 AM",1.80163
+"October 28, 2019","1 Week","11:55:05 AM",1.75125
+"October 28, 2019","1 Month","11:55:05 AM",1.79963
+"October 28, 2019","2 Month","11:55:05 AM",1.88263
+"October 28, 2019","3 Month","11:55:05 AM",1.93550
+"October 28, 2019","6 Month","11:55:05 AM",1.93988
+"October 28, 2019","1 Year","11:55:05 AM",1.99525
+"October 29, 2019","Overnight","11:55:04 AM",1.80100
+"October 29, 2019","1 Week","11:55:04 AM",1.71038
+"October 29, 2019","1 Month","11:55:04 AM",1.78588
+"October 29, 2019","2 Month","11:55:04 AM",1.86313
+"October 29, 2019","3 Month","11:55:04 AM",1.92713
+"October 29, 2019","6 Month","11:55:04 AM",1.92988
+"October 29, 2019","1 Year","11:55:04 AM",1.98875
+"October 30, 2019","Overnight","11:55:05 AM",1.80438
+"October 30, 2019","1 Week","11:55:05 AM",1.68000
+"October 30, 2019","1 Month","11:55:05 AM",1.78138
+"October 30, 2019","2 Month","11:55:05 AM",1.85900
+"October 30, 2019","3 Month","11:55:05 AM",1.90913
+"October 30, 2019","6 Month","11:55:05 AM",1.91950
+"October 30, 2019","1 Year","11:55:05 AM",1.97988
+"October 31, 2019","Overnight","11:55:04 AM",1.59988
+"October 31, 2019","1 Week","11:55:04 AM",1.65900
+"October 31, 2019","1 Month","11:55:04 AM",1.78488
+"October 31, 2019","2 Month","11:55:04 AM",1.84000
+"October 31, 2019","3 Month","11:55:04 AM",1.90225
+"October 31, 2019","6 Month","11:55:04 AM",1.91625
+"October 31, 2019","1 Year","11:55:04 AM",1.95538
+
